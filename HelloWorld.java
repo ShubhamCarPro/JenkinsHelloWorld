@@ -1,6 +1,6 @@
 public class HelloWorld{
 	public static void main(String[] args){
-		System.out.println("----****Hello!****----");
+		System.out.println("----****Hello All!****----");
 		System.out.println("----***GitHub WebHook Project***----");
 		System.out.println("----****WebHook Demo Working Fine!****----");
 		int a = 10, b = 5;
